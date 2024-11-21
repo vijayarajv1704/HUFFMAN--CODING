@@ -29,7 +29,7 @@ Print the Huffman code for the string.
 
 #### Get the input String
 ``` Python
-string = 'Renuga'
+string = 'VIJAYV'
 ```
 #### Create tree nodes
 ``` Python
